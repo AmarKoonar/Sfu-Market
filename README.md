@@ -2,6 +2,9 @@
 
 The exclusive marketplace for Simon Fraser University students. Buy, sell, and trade with confidence within the SFU community.
 
+## 🖥️ Hackathon:
+**StormHacks 2025**: Simon Fraser University
+
 ## ✨ Features
 
 - **🔐 Secure Authentication**: JWT-based authentication with SFU email verification
