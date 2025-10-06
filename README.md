@@ -1,4 +1,4 @@
-# 🎓 SFU Market - Student Marketplace
+# 🎓 SFU Marketplace
 
 The exclusive marketplace for Simon Fraser University students. Buy, sell, and trade with confidence within the SFU community.
 
