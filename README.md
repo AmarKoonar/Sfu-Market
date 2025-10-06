@@ -196,7 +196,7 @@ This project is built for Simon Fraser University students.
 
 ## 🤝 Support
 
-For issues or questions, visit the Contact page or reach out to support@sfumarket.ca
+For issues or questions, visit the Contact page or reach out to ask36@sfu.ca
 
 ---
 
