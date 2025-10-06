@@ -37,6 +37,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 =======
 # Storm-Hacks-2025
-
-hi
->>>>>>> 52b029472bcdf8c9bf933729fffdf0c5d40ad35d
