@@ -2,6 +2,9 @@
 
 The exclusive marketplace for Simon Fraser University students. Buy, sell, and trade with confidence within the SFU community.
 
+![SFUMARKET](sfu_market_place.JPG)
+---
+
 ## 🖥️ Hackathon:
 **StormHacks 2025**: Built by Amraj Koonar, Amar Koonar, Ekam Dhanoa
 
